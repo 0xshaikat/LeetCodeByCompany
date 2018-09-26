@@ -1,6 +1,6 @@
 # Company Interview Questions
 
-#### Collection of Leetcode questions asked in Computer Science interviews (Categorized by Company Name)
+#### Collection of LeetCode questions asked in Computer Science interviews (Categorized by Company Name)
 
 ## Adobe
 
